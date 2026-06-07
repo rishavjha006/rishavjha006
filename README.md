@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I am an **AI & Cybersecurity student** at the **Indian Institute of Technology Patna** (2026-2029).
+- 🎓 I am an **AI & Cybersecurity student** at the **Indian Institute of Technology Patna** .
 - 🛡️ Passionate about building **robust, secure backend systems** and scalable cloud applications.
 - 🚀 Currently working on projects emphasizing **security, high performance, and clean architecture**.
 - 💬 Ask me about **Backend Development, REST APIs, and Secure System Design**.
