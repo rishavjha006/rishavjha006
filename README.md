@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rishav Kumar Jha 👋</h1>
+<h3 align="center">AI & Cybersecurity Student at IIT Patna 🎓 | Backend & Security Enthusiast 🛡️</h3>
 
-<!--
-**rishavjha006/rishavjha006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://rishavkumarjha04.web.app" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/rishav-kumar-jha-a1b94438a" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jharishavdhn@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I am an **AI & Cybersecurity student** at the **Indian Institute of Technology Patna** (2026-2029).
+- 🛡️ Passionate about building **robust, secure backend systems** and scalable cloud applications.
+- 🚀 Currently working on projects emphasizing **security, high performance, and clean architecture**.
+- 💬 Ask me about **Backend Development, REST APIs, and Secure System Design**.
+- 📫 Reach out to me: **[jharishavdhn@gmail.com](mailto:jharishavdhn@gmail.com)** or via my **[Portfolio Website](https://rishavkumarjha04.web.app)**.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,tailwind,html,css,vite,nodejs,express,fastapi,django,flask,postgres,mysql,firebase,git,github,vscode,docker,aws" alt="Rishav's Skills" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🌐 **[SyntroSend](https://syntrosend-app.web.app)**: Ultra-fast offline & global P2P file transfer platform built on Iroh.
+- ☁️ **[NovaCloud22](https://novacloud22.web.app)**: Production SaaS cloud storage platform with AES-256 encryption, 2FA, and unified Google Drive management.
+- 🔒 **[Noverse Cloud](https://noversecloud.me)**: Secure, privacy-focused cloud control hub with Cloudflare protection for managing multiple cloud services.
+- 🤖 **[NovaX AI](https://novaxai.web.app)**: Advanced AI platform with real-time intelligence, team collaboration, and Gemini API integration.
+- 💬 **[WideChat](https://widechatapp.web.app)**: Real-time messaging platform with WebRTC calling, FastAPI backend, and Firestore database integration.
+- 💻 **[GitHub Repositories](https://github.com/rishavjha006?tab=repositories)**: Checkout my Open Source implementations like `ai-video-pipeline`, `Trading-Bot`, and more!
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishavjha006&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishav's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavjha006&theme=tokyonight&hide_border=true" alt="Rishav's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavjha006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center"><i>Visits to my profile:</i></p>
+<p align="center"><img src="https://profile-counter.glitch.me/rishavjha006/count.svg" alt="Profile views" /></p>
