@@ -61,4 +61,4 @@
 ---
 
 <p align="center"><i>Visits to my profile:</i></p>
-<p align="center"><img src="https://profile-counter.glitch.me/rishavjha006/count.svg" alt="Profile views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rishavjha006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></p>
