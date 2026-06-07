@@ -49,13 +49,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishavjha006&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Rishav's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rishavjha006&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="Rishav's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavjha006&theme=tokyonight&hide_border=true" alt="Rishav's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavjha006&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rishavjha006&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
 </p>
 
 ---
