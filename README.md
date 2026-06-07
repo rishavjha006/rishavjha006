@@ -2,6 +2,12 @@
 <h3 align="center">AI & Cybersecurity Student at IIT Patna 🎓 | Backend & Security Enthusiast 🛡️</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Designing+Scalable+Backend+Systems;Building+Secure+Cloud+Architectures;Creating+High-Performance+APIs;Writing+Clean+%26+Robust+Code" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://rishavkumarjha04.web.app" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -17,7 +23,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I am an **AI & Cybersecurity student** at the **Indian Institute of Technology Patna** .
+> *"The best way to predict the future is to create it."*
+
+- 🎓 I am an **AI & Cybersecurity student** at the **Indian Institute of Technology Patna** (2026-2029).
 - 🛡️ Passionate about building **robust, secure backend systems** and scalable cloud applications.
 - 🚀 Currently working on projects emphasizing **security, high performance, and clean architecture**.
 - 💬 Ask me about **Backend Development, REST APIs, and Secure System Design**.
