@@ -37,10 +37,10 @@
 
 ### 🚀 Featured Projects
 
-- 🌐 **[SyntroSend](https://syntrosend-app.web.app)**: Ultra-fast offline & global P2P file transfer platform built on Iroh.
-- ☁️ **[NovaCloud22](https://novacloud22.web.app)**: Production SaaS cloud storage platform with AES-256 encryption, 2FA, and unified Google Drive management.
-- 🔒 **[Noverse Cloud](https://noversecloud.me)**: Secure, privacy-focused cloud control hub with Cloudflare protection for managing multiple cloud services.
-- 🤖 **[NovaX AI](https://novaxai.web.app)**: Advanced AI platform with real-time intelligence and team collaboration.
+- <img src="https://syntrosend-app.web.app/logo.jpeg" width="20" align="center" /> **[SyntroSend](https://syntrosend-app.web.app)**: Ultra-fast offline & global P2P file transfer platform built on Iroh.
+- <img src="https://novacloud22.web.app/logo.png" width="20" align="center" /> **[NovaCloud22](https://novacloud22.web.app)**: Production SaaS cloud storage platform with AES-256 encryption, 2FA, and unified Google Drive management.
+- <img src="https://noversecloud.me/logo.png" width="20" align="center" /> **[Noverse Cloud](https://noversecloud.me)**: Secure, privacy-focused cloud control hub with Cloudflare protection for managing multiple cloud services.
+- <img src="https://novaxai.web.app/logo1.png" width="20" align="center" /> **[NovaX AI](https://novaxai.web.app)**: Advanced AI platform with real-time intelligence and team collaboration.
 - 💬 **[WideChat](https://widechatapp.web.app)**: Real-time messaging platform with WebRTC calling, FastAPI backend, and Firestore database integration.
 - 💻 **[GitHub Repositories](https://github.com/rishavjha006?tab=repositories)**: Checkout my Open Source implementations like `ai-video-pipeline`, `Trading-Bot`, and more!
 
